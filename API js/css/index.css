@@ -1,0 +1,48 @@
+/* Para Resetar qualquer css */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: rgba(206, 193, 193, 0.8);
+    font-family: Verdana;
+    max-width: 500px;
+    margin: auto;  /* muito importante ele tem uma valor auto e deixa tudo alinhadop */ 
+}
+
+#tela{
+ margin: 0;
+ margin-top: 30px;
+ margin-bottom: 15px;
+}
+
+img{
+    border: 2px solid black;
+    border-radius: 30px;
+    width: 30%;
+    width: 100%;
+    border-radius: 30px;
+    border: 2px solid rgb(206, 6, 83);
+    padding: 10px 12px;
+    margin-bottom: 10px;
+    cursor: pointer;  
+}
+
+h1{
+    color: rgb(6, 52, 93);
+    margin-bottom: 10px;
+}
+
+button{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgba(172, 3, 79, 0.5);
+  border: none;
+  color: aliceblue;
+  padding: 15px 30px;
+  margin-right: 10px;
+  font-size: 15px;
+  cursor: pointer;
+  border-radius: 2px;
+}
+
