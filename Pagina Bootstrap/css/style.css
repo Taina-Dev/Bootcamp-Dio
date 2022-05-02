@@ -1,0 +1,88 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar{
+    background-color: rgb(81, 192, 112);
+    
+}
+
+#quem-somos {
+    background-image:linear-gradient( rgb(102, 96, 208), rgba(0,0,0,.50));
+   
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: aliceblue;
+}
+
+#parceiros,
+#produtos{
+    padding-top: 50px;
+}
+#parceiros img{
+    width: 50%;
+    border-radius: 30px;
+    border: 2px solid rgb(213, 223, 211);
+    padding: 10px 12px;
+    margin-bottom: 50px;
+    cursor: pointer;
+}
+
+#produtos img{
+    width: 40%;
+    border-radius: 30px;
+    border: 2px solid rgb(213, 223, 211);
+    padding: 10px 12px;
+    margin-bottom: 10px;
+    cursor: pointer;  
+}
+#parceiros{
+    background-color: rgb(30, 199, 185);
+  
+}
+#produtos{
+    background-color: rgb(13, 139, 197);
+
+}
+
+/* footer */
+footer{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+    background-image:linear-gradient( rgba(94, 8, 8, 0.5), rgba(0,0,0,.50));
+ 	 padding: 2em 0; 
+
+}
+
+footer p{
+	font-size: 13px;
+	margin: 0 0 8px 0;
+}
+
+footer .copyright{
+  width: 100%;
+  text-align: center;
+}
+
+footer a{
+	font-size: 13px;
+	text-decoration: none;
+	color:aliceblue;
+	margin-bottom: 10px;
+}
+
+footer i {
+	color: aliceblue;
+	font-size: 25px;
+	margin-left: 10px;
+	transition: 0.4s;
+    margin-bottom: 10px;
+}
+
+footer i:hover{
+	transform: translateY(-10px);
+}
+
+ 
+
+
