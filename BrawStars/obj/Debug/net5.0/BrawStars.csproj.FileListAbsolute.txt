@@ -1,0 +1,16 @@
+C:\Users\taina\Desktop\BrawStars\bin\Debug\net5.0\BrawStars.exe
+C:\Users\taina\Desktop\BrawStars\bin\Debug\net5.0\BrawStars.deps.json
+C:\Users\taina\Desktop\BrawStars\bin\Debug\net5.0\BrawStars.runtimeconfig.json
+C:\Users\taina\Desktop\BrawStars\bin\Debug\net5.0\BrawStars.runtimeconfig.dev.json
+C:\Users\taina\Desktop\BrawStars\bin\Debug\net5.0\BrawStars.dll
+C:\Users\taina\Desktop\BrawStars\bin\Debug\net5.0\ref\BrawStars.dll
+C:\Users\taina\Desktop\BrawStars\bin\Debug\net5.0\BrawStars.pdb
+C:\Users\taina\Desktop\BrawStars\obj\Debug\net5.0\BrawStars.csproj.AssemblyReference.cache
+C:\Users\taina\Desktop\BrawStars\obj\Debug\net5.0\BrawStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taina\Desktop\BrawStars\obj\Debug\net5.0\BrawStars.AssemblyInfoInputs.cache
+C:\Users\taina\Desktop\BrawStars\obj\Debug\net5.0\BrawStars.AssemblyInfo.cs
+C:\Users\taina\Desktop\BrawStars\obj\Debug\net5.0\BrawStars.csproj.CoreCompileInputs.cache
+C:\Users\taina\Desktop\BrawStars\obj\Debug\net5.0\BrawStars.dll
+C:\Users\taina\Desktop\BrawStars\obj\Debug\net5.0\ref\BrawStars.dll
+C:\Users\taina\Desktop\BrawStars\obj\Debug\net5.0\BrawStars.pdb
+C:\Users\taina\Desktop\BrawStars\obj\Debug\net5.0\BrawStars.genruntimeconfig.cache
